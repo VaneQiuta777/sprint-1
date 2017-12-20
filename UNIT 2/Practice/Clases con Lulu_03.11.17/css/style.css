@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.containerNav {
+    
+}
+ul#awesome {
+    color: red;
+  }
+  
+  ul.programming-languages li.favorite span {
+    color: blue;
+  }
+
+  ul li span {
+    color: yellow;
+  }
+
+  ul#awesome li.favorite span {
+    color: green;
+  }
+
+  ul#awesome li.favorite span.highlight {
+    color: orange;
+  }

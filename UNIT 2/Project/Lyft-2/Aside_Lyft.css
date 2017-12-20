@@ -1,0 +1,13 @@
+<aside id="sign-up">
+          <div class="su-container">
+            <h1>Turn Miles <br> into money</h1>
+            <h5>Sign up to drive with Lyft</h5><br>
+            <!--Campo para ingresar número telefónico-->
+            <input type="number" class="ph-number" placeholder="Phone number">
+            <div class="links-top">
+              <a class="pink-button" href="#">Become a driver</a> <a href="#">Sign up to ride</a>
+            </div>
+            <p class="little">Already applied? <a href="#"><span>Check the status of your application here.</span></a> </p>
+            <p class="little">Earn money for inviting friends to drive. <a href="#"><span>Learn more</span></a></p>
+          </div>
+        </aside>

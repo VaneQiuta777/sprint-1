@@ -1,0 +1,45 @@
+body { /* selectores */
+}
+h1 { /* selector para el titulo*/
+
+}
+*{
+    box-sizing: border-box;
+    margin: 16px;
+}
+#title { /*selector para el titulo, id es más específico (por el tema de la cascada) */
+    text-align: center;
+    width: 300px;
+    padding : 8px;
+    border: 1px solid red;
+    
+    }
+/*#subtitle {
+    border: 1px solid rgb(103, 22, 150);
+}*/
+#subtitle { /*selector para el titulo, id es más específico (por el tema de la cascada) */
+    text-align: center;
+    width: 300px;
+    padding : 8px;
+    border: 1px solid red;
+    
+}
+p {
+    border: 1px solid black
+}
+ul {
+    outline: 2px orange;
+    width : 241px;
+    list-style: none;
+    padding: 0;
+
+}
+li {
+    outline: 1px solid yellow;
+
+}
+.enlace {
+    outline: 1px solid green;
+    display : inline-block;
+
+}

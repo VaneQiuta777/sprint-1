@@ -1,0 +1,38 @@
+body{
+    margin-top: 40px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+h1:hover {
+    color: blue;
+}
+#photoGirl {
+    width: 360px;
+    height: 450px;
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%)
+}
+div {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border: 1px solid blueviolet;
+    padding: 40px;
+    width: 300px;
+    margin-left: 50%;
+    transform: translateX(-50%)
+}
+form {
+    background-color: green;
+    width: 250px;
+    height: 60px;
+    font-family: monospace; 
+    font-size: 1.1.em;
+    color: white;
+    border: 2px solid black;
+    margin: auto;
+    padding: 15px;
+}

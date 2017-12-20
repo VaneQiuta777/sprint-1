@@ -1,0 +1,41 @@
+
+  .first-video{
+      height: 480px;
+      background: #fff;
+  }
+  
+  .amplify-your-ride{
+    float: right;
+  }
+  
+  .paragraph-1{
+    position: relative;
+    top: 30px;
+    width: 30%;
+    left: 50px;
+    line-height: 20pt;
+  }
+  
+  .paragraph-1 > h3{
+    font-size: 18pt;
+  }
+
+  /* segundo video*/
+  .second-video{
+    height: 480px;
+    background: #fff;
+}
+
+.june{
+  float: left;
+  margin-top: -4px;
+}
+
+.paragraph-2{
+  position: relative;
+  left: 50px;
+  top: 30px;
+  width: 30%;
+  display: inline-block;
+  line-height: 20pt;
+}
